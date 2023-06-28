@@ -10,7 +10,6 @@ st.caption('This web application demonstrate Object Detection')
 st.markdown("""
 ### This App detects objects from Images
 - Automatically detects 20 objects from image
-[-click here to view new page ]
 
 Below are the objects the app will detect
 1. Person
